@@ -20,6 +20,10 @@ You can check more specifics details on the [PCB report](https://github.com/Tobi
 - 12 to 15 cells easily adaptable
 
 ## 3D Model
+- ![#f03c15](https://placehold.co/15x15/ffff00/ffff00.png) `Analog Front End`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Gauge`
+- ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) `FET'S`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `Embedded System `
 ![placement](https://github.com/TobiasBp99/bms/blob/master/images/MODULES.png)
 ![top-plane](https://github.com/TobiasBp99/bms/blob/master/images/TL3D.png)
 ![top-perspective](https://github.com/TobiasBp99/bms/blob/master/images/TL23D.png)
