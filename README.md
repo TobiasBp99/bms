@@ -21,6 +21,6 @@ You can check more specifics details on the [PCB report](https://github.com/Tobi
 
 ## 3D Model
 ![placement](https://github.com/TobiasBp99/bms/blob/master/images/MODULES.png)
-![top-plane](https://github.com/TobiasBp99/powerTrain/blob/master/images/TL3D.png)
-![top-perspective](https://github.com/TobiasBp99/powerTrain/blob/master/images/TL23D.png)
+![top-plane](https://github.com/TobiasBp99/bms/blob/master/images/TL3D.png)
+![top-perspective](https://github.com/TobiasBp99/bms/blob/master/images/TL23D.png)
 
