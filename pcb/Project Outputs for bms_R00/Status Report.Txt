@@ -1,0 +1,10 @@
+Source PCB Design bmsPanel_R00.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [bms_R00.PrjPCB]
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 14:01:35 On 16/7/2024
